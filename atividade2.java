@@ -1,4 +1,3 @@
-atividade 2 
 package Java_Lista_3_Ternario;
 
 import java.util.Scanner;
